@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "api.NY.endpoint",
+      "type": "java.lang.String",
+      "description": "Core-адресс для доступа к NYTimes."
+    },
+    {
+      "name": "api.NY.key",
+      "type": "java.lang.String",
+      "description": "API ключ для доступа к NYTimes."
+    }
+  ]
+}

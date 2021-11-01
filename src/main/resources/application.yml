@@ -1,0 +1,18 @@
+server:
+  port: 3035
+  address:
+
+api:
+  NY:
+    endpoint: api.nytimes.com/svc
+    key:
+
+kafka:
+  server: localhost:9092
+  topic: test-topic
+
+spring:
+  data:
+    mongodb:
+      database: testdatabase
+      auto-index-creation: true
